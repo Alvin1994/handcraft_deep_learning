@@ -1,0 +1,1 @@
+{"cat1.jpg": {"dog": false, "cat": true}, "cat2.jpg": {"dog": false, "cat": true}, "dog1.jpg": {"dog": true, "cat": false}, "dog2.jpg": {"dog": true, "cat": false}}
